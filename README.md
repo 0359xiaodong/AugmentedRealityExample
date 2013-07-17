@@ -1,7 +1,7 @@
 AugmentedRealityExample
 =======================
 
-Developer: Pedro Vicente Gómez Sánchez <pedrovicente.gomez@gmail.com>
+Developer: Pedro Vicente Gómez Sánchez.
 
 Augmented Reality (AR) refers to the direct or indirect view of a real-world environment whose elements are blended with superimposed virtual graphics to create a mixed reality in real time. A range of technological devices which combines virtual data with the existing physical information, adding a synthetic reality to the existing world. This project it's a little example of an application for Android or iOS developed with Unity3D and Vuforia.
 
@@ -20,3 +20,19 @@ This project is a simple example of how create an Agmented Reality app for Andro
 - Visuar -> https://itunes.apple.com/ro/app/visuar/id514306415?mt=8
 
 - Helado AR -> https://play.google.com/store/apps/details?id=com.droiders.heladoAR&feature=more_from_developer
+
+LICENSE
+=======================
+
+This application is free software: you can redistribute it and/or modify it under the terms 
+of the GNU General Public License as published by the Free Software Foundation,
+either version 2 of the License, or (at your option) any later version.
+
+This application is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR 
+PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this application.
+If not, see <http://www.gnu.org/licenses/>
+
+Copyright 2012 myCompany. All rights reserved.
